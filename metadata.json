@@ -1,0 +1,6 @@
+{
+  "name": "Remix Wizard Chess 3D",
+  "description": "Make this app into a harry-potter themed chess game. Each piece using wand to kill others instead of the current interaction. Also, make the pieces and the set Hogwarts themed. Black into Slytherin white into Griffindor. Background into Hogwarts main hall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
